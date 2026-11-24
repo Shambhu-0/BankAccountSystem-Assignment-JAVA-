@@ -70,7 +70,6 @@ Bank-Account-Management-System/
 
 - **Assignment:** Java OOP Assignment
 - **Project:** Bank Account Management System
-- **Maximum Marks:** 10
 
 ---
 
